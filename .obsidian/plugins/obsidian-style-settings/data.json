@@ -4,5 +4,7 @@
   "things-style@@h2-color": "#FAFAFA",
   "things-style@@h3-color": "#FAFAFA",
   "things-style@@h4-color": "#FAFAFA",
-  "things-style@@h5-color": "#FAFAFA"
+  "things-style@@h5-color": "#FAFAFA",
+  "things-style@@mobile-black-background": true,
+  "things-style@@floating-button-off": true
 }

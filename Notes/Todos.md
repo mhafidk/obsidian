@@ -1,0 +1,1 @@
+ - [ ] research and write about the third youtube video, gimana caranya kompuer ngerti code lu #project
