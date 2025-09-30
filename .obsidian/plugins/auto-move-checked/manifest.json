@@ -1,0 +1,9 @@
+{
+  "id": "auto-move-checked",
+  "name": "Auto Move Checked Tasks",
+  "version": "1.0.1",
+  "minAppVersion": "0.15.0",
+  "author": "Muhammad Hafid K",
+  "description": "Automatically moves checked tasks to the bottom of the file.",
+  "isDesktopOnly": false
+}

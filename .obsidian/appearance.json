@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "Things",
+  "interfaceFontFamily": "IBM Plex Sans",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "centered-title",
+    "center-title"
+  ]
+}
