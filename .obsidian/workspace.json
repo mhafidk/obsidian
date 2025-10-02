@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Todos.md",
+                "file": "Notes/Update Lead V1 Endpoint Improvement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todos"
+              "title": "Update Lead V1 Endpoint Improvement"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Todos.md",
+                "file": "Notes/Update Lead V1 Endpoint Improvement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Todos"
+              "title": "Backlinks for Update Lead V1 Endpoint Improvement"
             }
           },
           {
@@ -172,9 +172,10 @@
   },
   "active": "67b8cf462cc81540",
   "lastOpenFiles": [
+    "Notes/Todos.md",
+    "Notes/Update Lead V1 Endpoint Improvement.md",
     "Excalidraw/Drawing 2025-09-30 23.08.48.excalidraw.md",
     "Excalidraw/Drawing 2025-09-28 21.54.51.excalidraw.md",
-    "Notes/Todos.md",
     "Excalidraw",
     "README.md",
     "test.md",
